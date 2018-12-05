@@ -79,7 +79,7 @@
   PlatformPeiLib|ArmPlatformPkg/PlatformPei/PlatformPeiLib.inf
 
   # frontpage change
-  ResetSystemLib|ArmPkg/Library/ArmSmcPsciResetSystemLib/ArmSmcPsciResetSystemLib.inf
+  #ResetSystemLib|ArmPkg/Library/ArmSmcPsciResetSystemLib/ArmSmcPsciResetSystemLib.inf
 
   # iMX8 specifics
   iMXIoMuxLib|iMX8Pkg/Library/iMX8IoMuxLib/iMX8IoMuxLib.inf

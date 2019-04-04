@@ -49,7 +49,7 @@
   # - OPTEE must have been loaded by ATF.
   # - Specific memory layout that is defined in the platform .dsc file.
 !ifndef CONFIG_OPTEE
-  DEFINE CONFIG_OPTEE = TRUE
+  DEFINE CONFIG_OPTEE = FALSE
 !endif
 
   # Allow collecting performance tracing from OPTEE hot code paths
